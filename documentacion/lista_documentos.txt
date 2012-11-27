@@ -46,6 +46,9 @@ soy colladoooooo...¡¡¡¡
 
 porfin me cago en la .......
 >>>>>>> 0118c96ec328b6bddc59d298306bfbaf9521e1e7
+<<<<<<< HEAD
 
 
 que pasa ovejita va o no va
+=======
+>>>>>>> eed163c026273778f32845a92b6009f82769f1dc
