@@ -1,3 +1,8 @@
 Nada de momento
 Aquí meteremos los archivos de documentación de ModBus
+<<<<<<< HEAD
 manuel corchuelo conde
+=======
+Hola soy Julián Fernández-trejo Grande.
+>>>>>>> 5e2ec219af5c5caf614fb503e732f2f206d63d63
+manuelcorchuelo
