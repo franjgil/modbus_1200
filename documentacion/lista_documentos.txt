@@ -1,4 +1,4 @@
-Nada de momento
+﻿Nada de momento
 Aquí meteremos los archivos de documentación de ModBus
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14,3 +14,5 @@ Hola soy Julián Fernández-trejo Grande.
 manuelcorchuelo
 >>>>>>> 0cfffb4400971bb99a934458c00058834ee725d0
 aaron romero 
+
+soy sergio rol esto es una pruebaaaaaaaa
