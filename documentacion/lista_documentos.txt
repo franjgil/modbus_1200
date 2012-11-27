@@ -1,2 +1,35 @@
-Nada de momento
+﻿Nada de momento
 Aquí meteremos los archivos de documentación de ModBus
+<<<<<<< HEAD
+Hola soy Javi
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Esto es otra prueba
+=======
+Hola soy Julián Fernández-trejo Grande.
+>>>>>>> 5e2ec219af5c5caf614fb503e732f2f206d63d63
+=======
+manuel corchuelo conde
+=======
+Hola soy Julián Fernández-trejo Grande.
+>>>>>>> 5e2ec219af5c5caf614fb503e732f2f206d63d63
+manuelcorchuelo
+>>>>>>> 0cfffb4400971bb99a934458c00058834ee725d0
+aaron romero 
+
+soy sergio rol esto es una pruebaaaaaaaa
+
+sale o no sale esto
+<<<<<<< HEAD
+>>>>>>> cd4c0596cb209dcd1e24f756ddaed00a01cec81a
+
+
+
+quiero mi ramaaaaa!!
+>>>>>>> 53d3d2d6d8ce0b1ecd229995c6e0688eac3b5043
+
+
+
+hola soy javi
+=======
