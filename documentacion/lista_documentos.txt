@@ -22,6 +22,8 @@ soy sergio rol esto es una pruebaaaaaaaa
 
 sale o no sale esto
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 >>>>>>> cd4c0596cb209dcd1e24f756ddaed00a01cec81a
 
 
@@ -33,4 +35,17 @@ quiero mi ramaaaaa!!
 
 hola soy javi
 =======
+<<<<<<< HEAD
 victor carrion
+=======
+>>>>>>> 11113c5b1095f2f391a70c3de8d5521278a30458
+
+
+soy colladoooooo...¡¡¡¡
+
+
+porfin me cago en la .......
+>>>>>>> 0118c96ec328b6bddc59d298306bfbaf9521e1e7
+
+
+que pasa ovejita va o no va
